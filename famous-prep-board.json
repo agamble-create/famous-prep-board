@@ -2,7 +2,11 @@
  "date": "Monday, November 23, 2026",
  "make": [
   [
-   "Rugelach — Apple",
+   "Rugelach — Raspberry",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Rugelach — Cinnamon",
    "MAKE 1 BATCH"
   ],
   [
@@ -10,7 +14,24 @@
    "MAKE 1 BATCH"
   ]
  ],
- "bake": [],
+ "bake": [
+  [
+   "Chocolate Chip",
+   "24"
+  ],
+  [
+   "Choc Chip Walnut",
+   "24"
+  ],
+  [
+   "Oatmeal Raisin",
+   "24"
+  ],
+  [
+   "Peanut Butter",
+   "12"
+  ]
+ ],
  "sections": [
   {
    "title": "Make — Bakery, Next Run",
@@ -18,7 +39,11 @@
    "empty": "Nothing to make — all covered.",
    "rows": [
     [
-     "Rugelach — Apple",
+     "Rugelach — Raspberry",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Rugelach — Cinnamon",
      "MAKE 1 BATCH"
     ],
     [
@@ -31,50 +56,37 @@
    "title": "Bake Today — Puck Cookies",
    "style": "bake",
    "empty": "No bakes today.",
-   "rows": []
+   "rows": [
+    [
+     "Chocolate Chip",
+     "24"
+    ],
+    [
+     "Choc Chip Walnut",
+     "24"
+    ],
+    [
+     "Oatmeal Raisin",
+     "24"
+    ],
+    [
+     "Peanut Butter",
+     "12"
+    ]
+   ]
   },
   {
    "title": "Make — Bakery Case, Next Run",
    "style": "pill",
    "empty": "Nothing to make — all covered.",
-   "rows": [
-    [
-     "Chocolate Cake",
-     "MAKE 2 CAKES"
-    ],
-    [
-     "German Chocolate Cake",
-     "MAKE 2 CAKES"
-    ],
-    [
-     "Strawberry Shortcake",
-     "MAKE 14 PANS"
-    ],
-    [
-     "Black & White",
-     "MAKE 4 BATCHES"
-    ],
-    [
-     "Eclair",
-     "MAKE 2 BATCHES"
-    ]
-   ]
+   "rows": []
   },
   {
    "title": "Make / Restock — Deli Case 1",
    "style": "pill",
    "empty": "Nothing to restock — all covered.",
-   "rows": [
-    [
-     "Potato Knish",
-     "MAKE 5"
-    ],
-    [
-     "Meat Knish",
-     "MAKE 1"
-    ]
-   ]
+   "rows": []
   }
  ],
- "updated": "2026-11-23T14:51:02-05:00"
+ "updated": "2026-11-23T14:51:50-05:00"
 }
