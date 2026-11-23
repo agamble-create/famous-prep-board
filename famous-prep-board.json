@@ -79,7 +79,32 @@
    "title": "Make — Bakery Case, Next Run",
    "style": "pill",
    "empty": "Nothing to make — all covered.",
-   "rows": []
+   "rows": [
+    [
+     "Peanut Butter Cake",
+     "MAKE 1 CAKE"
+    ],
+    [
+     "Chocolate Cake",
+     "MAKE 3 CAKES"
+    ],
+    [
+     "German Chocolate Cake",
+     "MAKE 2 CAKES"
+    ],
+    [
+     "Strawberry Shortcake",
+     "MAKE 16 PANS"
+    ],
+    [
+     "Black & White",
+     "MAKE 5 BATCHES"
+    ],
+    [
+     "Eclair",
+     "MAKE 2 BATCHES"
+    ]
+   ]
   },
   {
    "title": "Make / Restock — Deli Case 1",
@@ -88,5 +113,5 @@
    "rows": []
   }
  ],
- "updated": "2026-11-23T17:06:31+00:00"
+ "updated": "2026-11-23T17:45:03+00:00"
 }
