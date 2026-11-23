@@ -2,17 +2,33 @@
  "date": "Monday, November 23, 2026",
  "make": [
   [
-   "Rugelach — Apple",
+   "Rugelach — Raspberry",
    "MAKE 1 BATCH"
   ],
   [
    "Rugelach — Cinnamon",
    "MAKE 1 BATCH"
+  ],
+  [
+   "Linzer Tart — Raspberry",
+   "MAKE 1 BATCH"
   ]
  ],
  "bake": [
   [
-   "Mini Choc Chip",
+   "Chocolate Chip",
+   "24"
+  ],
+  [
+   "Choc Chip Walnut",
+   "24"
+  ],
+  [
+   "Oatmeal Raisin",
+   "24"
+  ],
+  [
+   "Peanut Butter",
    "12"
   ]
  ],
@@ -23,11 +39,15 @@
    "empty": "Nothing to make — all covered.",
    "rows": [
     [
-     "Rugelach — Apple",
+     "Rugelach — Raspberry",
      "MAKE 1 BATCH"
     ],
     [
      "Rugelach — Cinnamon",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Linzer Tart — Raspberry",
      "MAKE 1 BATCH"
     ]
    ]
@@ -38,7 +58,19 @@
    "empty": "No bakes today.",
    "rows": [
     [
-     "Mini Choc Chip",
+     "Chocolate Chip",
+     "24"
+    ],
+    [
+     "Choc Chip Walnut",
+     "24"
+    ],
+    [
+     "Oatmeal Raisin",
+     "24"
+    ],
+    [
+     "Peanut Butter",
      "12"
     ]
    ]
@@ -56,5 +88,5 @@
    "rows": []
   }
  ],
- "updated": "2026-11-23T18:14:57+00:00"
+ "updated": "2026-11-23T19:15:04+00:00"
 }
