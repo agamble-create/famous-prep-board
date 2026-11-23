@@ -2,36 +2,11 @@
  "date": "Monday, November 23, 2026",
  "make": [
   [
-   "Rugelach — Raspberry",
-   "MAKE 1 BATCH"
-  ],
-  [
-   "Rugelach — Cinnamon",
-   "MAKE 1 BATCH"
-  ],
-  [
-   "Linzer Tart — Raspberry",
-   "MAKE 1 BATCH"
+   "— nothing to make —",
+   "everything is covered"
   ]
  ],
- "bake": [
-  [
-   "Chocolate Chip",
-   "24"
-  ],
-  [
-   "Choc Chip Walnut",
-   "24"
-  ],
-  [
-   "Oatmeal Raisin",
-   "24"
-  ],
-  [
-   "Peanut Butter",
-   "12"
-  ]
- ],
+ "bake": [],
  "sections": [
   {
    "title": "Make — Bakery, Next Run",
@@ -39,16 +14,8 @@
    "empty": "Nothing to make — all covered.",
    "rows": [
     [
-     "Rugelach — Raspberry",
-     "MAKE 1 BATCH"
-    ],
-    [
-     "Rugelach — Cinnamon",
-     "MAKE 1 BATCH"
-    ],
-    [
-     "Linzer Tart — Raspberry",
-     "MAKE 1 BATCH"
+     "— nothing to make —",
+     "everything is covered"
     ]
    ]
   },
@@ -56,37 +23,74 @@
    "title": "Bake Today — Puck Cookies",
    "style": "bake",
    "empty": "No bakes today.",
-   "rows": [
-    [
-     "Chocolate Chip",
-     "24"
-    ],
-    [
-     "Choc Chip Walnut",
-     "24"
-    ],
-    [
-     "Oatmeal Raisin",
-     "24"
-    ],
-    [
-     "Peanut Butter",
-     "12"
-    ]
-   ]
+   "rows": []
   },
   {
    "title": "Make — Bakery Case, Next Run",
    "style": "pill",
    "empty": "Nothing to make — all covered.",
-   "rows": []
+   "rows": [
+    [
+     "Chocolate Cake",
+     "MAKE 3 CAKES"
+    ],
+    [
+     "Funfetti Cake",
+     "MAKE 1 CAKE"
+    ],
+    [
+     "Strawberry Shortcake",
+     "MAKE 16 PANS"
+    ],
+    [
+     "Apple Strudel",
+     "MAKE 1 ROW"
+    ],
+    [
+     "Black & White",
+     "MAKE 4 BATCHES"
+    ],
+    [
+     "Eclair",
+     "MAKE 2 BATCHES"
+    ]
+   ]
   },
   {
    "title": "Make / Restock — Deli Case 1",
    "style": "pill",
    "empty": "Nothing to restock — all covered.",
-   "rows": []
+   "rows": [
+    [
+     "Cheese Kugel",
+     "RESTOCK 0.5"
+    ],
+    [
+     "Fruit Kugel",
+     "RESTOCK 3"
+    ],
+    [
+     "Potato Knish",
+     "MAKE 2"
+    ],
+    [
+     "Meat Knish",
+     "MAKE 4"
+    ],
+    [
+     "Pizza Bagel",
+     "RESTOCK 2"
+    ],
+    [
+     "Frank in a Blanket",
+     "RESTOCK 2.5"
+    ],
+    [
+     "Salmon Cream Cheese",
+     "BRING UP 1 PAN"
+    ]
+   ]
   }
  ],
- "updated": "2026-11-23T14:51:50-05:00"
+ "updated": "2026-11-23T20:44:53+00:00"
 }
