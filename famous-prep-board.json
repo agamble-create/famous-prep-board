@@ -2,8 +2,12 @@
  "date": "Monday, November 23, 2026",
  "make": [
   [
-   "— nothing to make —",
-   "everything is covered"
+   "Rugelach — Apple",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Linzer Tart — Raspberry",
+   "MAKE 1 BATCH"
   ]
  ],
  "bake": [],
@@ -14,8 +18,12 @@
    "empty": "Nothing to make — all covered.",
    "rows": [
     [
-     "— nothing to make —",
-     "everything is covered"
+     "Rugelach — Apple",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Linzer Tart — Raspberry",
+     "MAKE 1 BATCH"
     ]
    ]
   },
@@ -32,19 +40,15 @@
    "rows": [
     [
      "Chocolate Cake",
-     "MAKE 3 CAKES"
+     "MAKE 2 CAKES"
     ],
     [
-     "Funfetti Cake",
-     "MAKE 1 CAKE"
+     "German Chocolate Cake",
+     "MAKE 2 CAKES"
     ],
     [
      "Strawberry Shortcake",
-     "MAKE 16 PANS"
-    ],
-    [
-     "Apple Strudel",
-     "MAKE 1 ROW"
+     "MAKE 14 PANS"
     ],
     [
      "Black & White",
@@ -62,35 +66,15 @@
    "empty": "Nothing to restock — all covered.",
    "rows": [
     [
-     "Cheese Kugel",
-     "RESTOCK 0.5"
-    ],
-    [
-     "Fruit Kugel",
-     "RESTOCK 3"
-    ],
-    [
      "Potato Knish",
-     "MAKE 2"
+     "MAKE 5"
     ],
     [
      "Meat Knish",
-     "MAKE 4"
-    ],
-    [
-     "Pizza Bagel",
-     "RESTOCK 2"
-    ],
-    [
-     "Frank in a Blanket",
-     "RESTOCK 2.5"
-    ],
-    [
-     "Salmon Cream Cheese",
-     "BRING UP 1 PAN"
+     "MAKE 1"
     ]
    ]
   }
  ],
- "updated": "2026-11-23T20:44:53+00:00"
+ "updated": "2026-11-23T20:31:45-05:00"
 }
