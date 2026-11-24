@@ -120,43 +120,19 @@
    "rows": [
     [
      "Chocolate Cake",
-     "MAKE 3 CAKES"
+     "MAKE 2 CAKES"
     ],
     [
      "Funfetti Cake",
      "MAKE 1 CAKE"
     ],
     [
-     "Cannoli Cake",
-     "MAKE 1 CAKE"
-    ],
-    [
-     "Lemon Cake",
-     "MAKE 1 CAKE"
-    ],
-    [
-     "German Chocolate Cake",
-     "MAKE 2 CAKES"
-    ],
-    [
      "Strawberry Shortcake",
-     "MAKE 16 PANS"
-    ],
-    [
-     "Apple Strudel",
-     "MAKE 0.5 ROWS"
-    ],
-    [
-     "Apple Turnover",
-     "MAKE 1 BATCH"
+     "MAKE 12 PANS"
     ],
     [
      "Black & White",
      "MAKE 4 BATCHES"
-    ],
-    [
-     "Eclair",
-     "MAKE 2 BATCHES"
     ],
     [
      "Carrot Cake",
@@ -170,16 +146,16 @@
    "empty": "Nothing to restock — all covered.",
    "rows": [
     [
-     "Cheese Kugel",
-     "RESTOCK 3"
-    ],
-    [
      "Fruit Kugel",
      "RESTOCK 3"
     ],
     [
      "Potato Knish",
-     "MAKE 6"
+     "MAKE 10"
+    ],
+    [
+     "Meat Knish",
+     "MAKE 8"
     ],
     [
      "Frank in a Blanket",
@@ -188,13 +164,9 @@
     [
      "Salmon Cream Cheese",
      "BRING UP 1 PAN"
-    ],
-    [
-     "Plain Cream Cheese",
-     "BRING UP 1 PAN"
     ]
    ]
   }
  ],
- "updated": "2026-11-24T12:56:16.953Z"
+ "updated": "2026-11-24T07:56:50-05:00"
 }
