@@ -2,10 +2,6 @@
  "date": "Tuesday, November 24, 2026",
  "make": [
   [
-   "Rugelach — Apple",
-   "MAKE 1 BATCH"
-  ],
-  [
    "Rugelach — Apricot",
    "MAKE 1 BATCH"
   ],
@@ -26,16 +22,8 @@
    "MAKE 1 BATCH"
   ],
   [
-   "Linzer Tart — Apricot",
-   "MAKE 1 BATCH"
-  ],
-  [
    "Linzer Tart — Raspberry",
    "MAKE 2 BATCHES"
-  ],
-  [
-   "Chocolate Babka",
-   "MAKE 1 BATCH"
   ]
  ],
  "bake": [
@@ -73,10 +61,6 @@
    "empty": "Nothing to make — all covered.",
    "rows": [
     [
-     "Rugelach — Apple",
-     "MAKE 1 BATCH"
-    ],
-    [
      "Rugelach — Apricot",
      "MAKE 1 BATCH"
     ],
@@ -97,16 +81,8 @@
      "MAKE 1 BATCH"
     ],
     [
-     "Linzer Tart — Apricot",
-     "MAKE 1 BATCH"
-    ],
-    [
      "Linzer Tart — Raspberry",
      "MAKE 2 BATCHES"
-    ],
-    [
-     "Chocolate Babka",
-     "MAKE 1 BATCH"
     ]
    ]
   },
@@ -144,39 +120,19 @@
    "rows": [
     [
      "Chocolate Cake",
-     "MAKE 3 CAKES"
+     "MAKE 2 CAKES"
     ],
     [
      "Funfetti Cake",
      "MAKE 1 CAKE"
     ],
     [
-     "Cannoli Cake",
-     "MAKE 1 CAKE"
-    ],
-    [
-     "Lemon Cake",
-     "MAKE 1 CAKE"
-    ],
-    [
-     "German Chocolate Cake",
-     "MAKE 2 CAKES"
-    ],
-    [
      "Strawberry Shortcake",
-     "MAKE 16 PANS"
-    ],
-    [
-     "Apple Strudel",
-     "MAKE 0.5 ROWS"
-    ],
-    [
-     "Apple Turnover",
-     "MAKE 1 BATCH"
+     "MAKE 12 PANS"
     ],
     [
      "Black & White",
-     "MAKE 5 BATCHES"
+     "MAKE 4 BATCHES"
     ],
     [
      "Eclair",
@@ -194,10 +150,6 @@
    "empty": "Nothing to restock — all covered.",
    "rows": [
     [
-     "Cheese Kugel",
-     "RESTOCK 3"
-    ],
-    [
      "Fruit Kugel",
      "RESTOCK 3"
     ],
@@ -207,7 +159,7 @@
     ],
     [
      "Meat Knish",
-     "MAKE 8"
+     "MAKE 5"
     ],
     [
      "Frank in a Blanket",
@@ -216,13 +168,9 @@
     [
      "Salmon Cream Cheese",
      "BRING UP 1 PAN"
-    ],
-    [
-     "Plain Cream Cheese",
-     "BRING UP 1 PAN"
     ]
    ]
   }
  ],
- "updated": "2026-11-24T12:47:03.641Z"
+ "updated": "2026-11-24T12:49:58.227Z"
 }
