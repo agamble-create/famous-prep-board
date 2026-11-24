@@ -195,11 +195,11 @@
    "rows": [
     [
      "Cheese Kugel",
-     "RESTOCK 6"
+     "RESTOCK 3"
     ],
     [
      "Fruit Kugel",
-     "RESTOCK 6"
+     "RESTOCK 3"
     ],
     [
      "Potato Knish",
@@ -210,23 +210,11 @@
      "MAKE 8"
     ],
     [
-     "Pizza Bagel",
-     "RESTOCK 8"
-    ],
-    [
-     "Bagel Dogs",
-     "RESTOCK 5"
-    ],
-    [
      "Frank in a Blanket",
-     "RESTOCK 5"
+     "RESTOCK 2.5"
     ],
     [
      "Salmon Cream Cheese",
-     "BRING UP 1 PAN"
-    ],
-    [
-     "Scallion Cream Cheese",
      "BRING UP 1 PAN"
     ],
     [
@@ -236,5 +224,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T12:45:26.632Z"
+ "updated": "2026-11-24T12:47:03.641Z"
 }
