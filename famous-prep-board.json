@@ -109,12 +109,7 @@
    "title": "Called In — Catering & Drains",
    "style": "pill",
    "empty": "No open catering or drains.",
-   "rows": [
-    [
-     "Chocolate Chip",
-     "CATER 1 trays — for Tue 11/24 10:00 AM · TEST trigger proof — delete"
-    ]
-   ]
+   "rows": []
   },
   {
    "title": "Make — Bakery, Next Run",
@@ -361,5 +356,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T03:07:23.031Z"
+ "updated": "2026-11-23T22:09:58-05:00"
 }
