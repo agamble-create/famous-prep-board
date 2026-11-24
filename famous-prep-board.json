@@ -143,10 +143,6 @@
    "empty": "Nothing to make — all covered.",
    "rows": [
     [
-     "Peanut Butter Cake",
-     "MAKE 1 CAKE"
-    ],
-    [
      "Chocolate Cake",
      "MAKE 3 CAKES"
     ],
@@ -159,10 +155,6 @@
      "MAKE 1 CAKE"
     ],
     [
-     "Oreo Cake",
-     "MAKE 1 CAKE"
-    ],
-    [
      "Lemon Cake",
      "MAKE 1 CAKE"
     ],
@@ -171,24 +163,12 @@
      "MAKE 2 CAKES"
     ],
     [
-     "Plain Cheesecake",
-     "MAKE 1 CHEESECAKE"
-    ],
-    [
-     "Strawberry Cheesecake",
-     "MAKE 1 CHEESECAKE"
-    ],
-    [
-     "Brownies",
-     "MAKE 1 BATCH"
-    ],
-    [
      "Strawberry Shortcake",
      "MAKE 16 PANS"
     ],
     [
      "Apple Strudel",
-     "MAKE 2 ROWS"
+     "MAKE 0.5 ROWS"
     ],
     [
      "Apple Turnover",
@@ -199,20 +179,8 @@
      "MAKE 5 BATCHES"
     ],
     [
-     "Apple Crumb",
-     "MAKE 2 PANS"
-    ],
-    [
-     "Boston Cream",
-     "MAKE 3 PANS"
-    ],
-    [
      "Eclair",
      "MAKE 2 BATCHES"
-    ],
-    [
-     "Checkerboard Cake",
-     "MAKE 1 CAKE"
     ],
     [
      "Carrot Cake",
@@ -268,5 +236,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T12:44:32.774Z"
+ "updated": "2026-11-24T12:45:26.632Z"
 }
