@@ -106,6 +106,12 @@
  ],
  "sections": [
   {
+   "title": "Called In — Catering & Drains",
+   "style": "pill",
+   "empty": "No open catering or drains.",
+   "rows": []
+  },
+  {
    "title": "Make — Bakery, Next Run",
    "style": "pill",
    "empty": "Nothing to make — all covered.",
@@ -350,5 +356,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T01:45:01+00:00"
+ "updated": "2026-11-23T21:43:00-05:00"
 }
