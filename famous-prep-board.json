@@ -109,7 +109,16 @@
    "title": "Called In — Catering & Drains",
    "style": "pill",
    "empty": "No open catering or drains.",
-   "rows": []
+   "rows": [
+    [
+     "Chocolate Chip",
+     "CATER 24 trays — for Tue 11/24 10:00 AM · TEST shiva order — delete"
+    ],
+    [
+     "Potato Knish",
+     "DRAIN 6 pieces — recount Deli Case 1 · TEST drain — delete"
+    ]
+   ]
   },
   {
    "title": "Make — Bakery, Next Run",
@@ -356,5 +365,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T21:43:00-05:00"
+ "updated": "2026-11-23T21:49:35-05:00"
 }
