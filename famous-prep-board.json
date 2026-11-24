@@ -6,10 +6,6 @@
    "MAKE 1 BATCH"
   ],
   [
-   "Rugelach — Raspberry",
-   "MAKE 1 BATCH"
-  ],
-  [
    "Rugelach — Apricot",
    "MAKE 1 BATCH"
   ],
@@ -22,10 +18,6 @@
    "MAKE 1 BATCH"
   ],
   [
-   "Hamantaschen — Raspberry",
-   "MAKE 1 BATCH"
-  ],
-  [
    "Hamantaschen — Apricot",
    "MAKE 1 BATCH"
   ],
@@ -34,53 +26,25 @@
    "MAKE 1 BATCH"
   ],
   [
-   "Hamantaschen — Poppy",
-   "MAKE 1 BATCH"
-  ],
-  [
    "Linzer Tart — Apricot",
-   "MAKE 2 BATCHES"
+   "MAKE 1 BATCH"
   ],
   [
    "Linzer Tart — Raspberry",
    "MAKE 2 BATCHES"
   ],
   [
-   "Marble — Jumbo",
-   "MAKE 1 BATCH"
-  ],
-  [
-   "M&M — Jumbo",
-   "MAKE 1 BATCH"
-  ],
-  [
-   "Rainbow Sprinkle — Jumbo",
-   "MAKE 1 BATCH"
-  ],
-  [
    "Chocolate Babka",
-   "MAKE 1 BATCH"
-  ],
-  [
-   "Chocolate Macaroons",
-   "MAKE 1 BATCH"
-  ],
-  [
-   "Plain Macaroons",
    "MAKE 1 BATCH"
   ]
  ],
  "bake": [
   [
    "Chocolate Chip",
-   "24"
+   "12"
   ],
   [
    "Choc Chip Walnut",
-   "24"
-  ],
-  [
-   "Oatmeal Raisin",
    "24"
   ],
   [
@@ -88,20 +52,12 @@
    "24"
   ],
   [
-   "Double Dark",
-   "12"
-  ],
-  [
    "White Choc Macadamia",
    "24"
   ],
   [
-   "Funfetti",
-   "12"
-  ],
-  [
    "Mini Choc Chip",
-   "36"
+   "24"
   ]
  ],
  "sections": [
@@ -121,10 +77,6 @@
      "MAKE 1 BATCH"
     ],
     [
-     "Rugelach — Raspberry",
-     "MAKE 1 BATCH"
-    ],
-    [
      "Rugelach — Apricot",
      "MAKE 1 BATCH"
     ],
@@ -137,10 +89,6 @@
      "MAKE 1 BATCH"
     ],
     [
-     "Hamantaschen — Raspberry",
-     "MAKE 1 BATCH"
-    ],
-    [
      "Hamantaschen — Apricot",
      "MAKE 1 BATCH"
     ],
@@ -149,39 +97,15 @@
      "MAKE 1 BATCH"
     ],
     [
-     "Hamantaschen — Poppy",
-     "MAKE 1 BATCH"
-    ],
-    [
      "Linzer Tart — Apricot",
-     "MAKE 2 BATCHES"
+     "MAKE 1 BATCH"
     ],
     [
      "Linzer Tart — Raspberry",
      "MAKE 2 BATCHES"
     ],
     [
-     "Marble — Jumbo",
-     "MAKE 1 BATCH"
-    ],
-    [
-     "M&M — Jumbo",
-     "MAKE 1 BATCH"
-    ],
-    [
-     "Rainbow Sprinkle — Jumbo",
-     "MAKE 1 BATCH"
-    ],
-    [
      "Chocolate Babka",
-     "MAKE 1 BATCH"
-    ],
-    [
-     "Chocolate Macaroons",
-     "MAKE 1 BATCH"
-    ],
-    [
-     "Plain Macaroons",
      "MAKE 1 BATCH"
     ]
    ]
@@ -193,14 +117,10 @@
    "rows": [
     [
      "Chocolate Chip",
-     "24"
+     "12"
     ],
     [
      "Choc Chip Walnut",
-     "24"
-    ],
-    [
-     "Oatmeal Raisin",
      "24"
     ],
     [
@@ -208,20 +128,12 @@
      "24"
     ],
     [
-     "Double Dark",
-     "12"
-    ],
-    [
      "White Choc Macadamia",
      "24"
     ],
     [
-     "Funfetti",
-     "12"
-    ],
-    [
      "Mini Choc Chip",
-     "36"
+     "24"
     ]
    ]
   },
@@ -356,5 +268,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T10:57:38+00:00"
+ "updated": "2026-11-24T12:44:32.774Z"
 }
