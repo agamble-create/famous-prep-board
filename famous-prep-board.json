@@ -2,11 +2,108 @@
  "date": "Monday, November 23, 2026",
  "make": [
   [
-   "— nothing to make —",
-   "everything is covered"
+   "Rugelach — Apple",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Rugelach — Raspberry",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Rugelach — Apricot",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Rugelach — Chocolate",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Rugelach — Cinnamon",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Hamantaschen — Raspberry",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Hamantaschen — Apricot",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Hamantaschen — Prune",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Hamantaschen — Poppy",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Linzer Tart — Apricot",
+   "MAKE 2 BATCHES"
+  ],
+  [
+   "Linzer Tart — Raspberry",
+   "MAKE 2 BATCHES"
+  ],
+  [
+   "Marble — Jumbo",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "M&M — Jumbo",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Rainbow Sprinkle — Jumbo",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Chocolate Babka",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Chocolate Macaroons",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Plain Macaroons",
+   "MAKE 1 BATCH"
   ]
  ],
- "bake": [],
+ "bake": [
+  [
+   "Chocolate Chip",
+   "24"
+  ],
+  [
+   "Choc Chip Walnut",
+   "24"
+  ],
+  [
+   "Oatmeal Raisin",
+   "24"
+  ],
+  [
+   "Peanut Butter",
+   "24"
+  ],
+  [
+   "Double Dark",
+   "12"
+  ],
+  [
+   "White Choc Macadamia",
+   "24"
+  ],
+  [
+   "Funfetti",
+   "12"
+  ],
+  [
+   "Mini Choc Chip",
+   "36"
+  ]
+ ],
  "sections": [
   {
    "title": "Make — Bakery, Next Run",
@@ -14,8 +111,72 @@
    "empty": "Nothing to make — all covered.",
    "rows": [
     [
-     "— nothing to make —",
-     "everything is covered"
+     "Rugelach — Apple",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Rugelach — Raspberry",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Rugelach — Apricot",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Rugelach — Chocolate",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Rugelach — Cinnamon",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Hamantaschen — Raspberry",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Hamantaschen — Apricot",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Hamantaschen — Prune",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Hamantaschen — Poppy",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Linzer Tart — Apricot",
+     "MAKE 2 BATCHES"
+    ],
+    [
+     "Linzer Tart — Raspberry",
+     "MAKE 2 BATCHES"
+    ],
+    [
+     "Marble — Jumbo",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "M&M — Jumbo",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Rainbow Sprinkle — Jumbo",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Chocolate Babka",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Chocolate Macaroons",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Plain Macaroons",
+     "MAKE 1 BATCH"
     ]
    ]
   },
@@ -23,13 +184,50 @@
    "title": "Bake Today — Puck Cookies",
    "style": "bake",
    "empty": "No bakes today.",
-   "rows": []
+   "rows": [
+    [
+     "Chocolate Chip",
+     "24"
+    ],
+    [
+     "Choc Chip Walnut",
+     "24"
+    ],
+    [
+     "Oatmeal Raisin",
+     "24"
+    ],
+    [
+     "Peanut Butter",
+     "24"
+    ],
+    [
+     "Double Dark",
+     "12"
+    ],
+    [
+     "White Choc Macadamia",
+     "24"
+    ],
+    [
+     "Funfetti",
+     "12"
+    ],
+    [
+     "Mini Choc Chip",
+     "36"
+    ]
+   ]
   },
   {
    "title": "Make — Bakery Case, Next Run",
    "style": "pill",
    "empty": "Nothing to make — all covered.",
    "rows": [
+    [
+     "Peanut Butter Cake",
+     "MAKE 1 CAKE"
+    ],
     [
      "Chocolate Cake",
      "MAKE 3 CAKES"
@@ -39,20 +237,68 @@
      "MAKE 1 CAKE"
     ],
     [
+     "Cannoli Cake",
+     "MAKE 1 CAKE"
+    ],
+    [
+     "Oreo Cake",
+     "MAKE 1 CAKE"
+    ],
+    [
+     "Lemon Cake",
+     "MAKE 1 CAKE"
+    ],
+    [
+     "German Chocolate Cake",
+     "MAKE 2 CAKES"
+    ],
+    [
+     "Plain Cheesecake",
+     "MAKE 1 CHEESECAKE"
+    ],
+    [
+     "Strawberry Cheesecake",
+     "MAKE 1 CHEESECAKE"
+    ],
+    [
+     "Brownies",
+     "MAKE 1 BATCH"
+    ],
+    [
      "Strawberry Shortcake",
      "MAKE 16 PANS"
     ],
     [
      "Apple Strudel",
-     "MAKE 1 ROW"
+     "MAKE 2 ROWS"
+    ],
+    [
+     "Apple Turnover",
+     "MAKE 1 BATCH"
     ],
     [
      "Black & White",
-     "MAKE 4 BATCHES"
+     "MAKE 5 BATCHES"
+    ],
+    [
+     "Apple Crumb",
+     "MAKE 2 PANS"
+    ],
+    [
+     "Boston Cream",
+     "MAKE 3 PANS"
     ],
     [
      "Eclair",
      "MAKE 2 BATCHES"
+    ],
+    [
+     "Checkerboard Cake",
+     "MAKE 1 CAKE"
+    ],
+    [
+     "Carrot Cake",
+     "MAKE 1 CAKE"
     ]
    ]
   },
@@ -63,34 +309,46 @@
    "rows": [
     [
      "Cheese Kugel",
-     "RESTOCK 0.5"
+     "RESTOCK 6"
     ],
     [
      "Fruit Kugel",
-     "RESTOCK 3"
+     "RESTOCK 6"
     ],
     [
      "Potato Knish",
-     "MAKE 2"
+     "MAKE 10"
     ],
     [
      "Meat Knish",
-     "MAKE 4"
+     "MAKE 8"
     ],
     [
      "Pizza Bagel",
-     "RESTOCK 2"
+     "RESTOCK 8"
+    ],
+    [
+     "Bagel Dogs",
+     "RESTOCK 5"
     ],
     [
      "Frank in a Blanket",
-     "RESTOCK 2.5"
+     "RESTOCK 5"
     ],
     [
      "Salmon Cream Cheese",
+     "BRING UP 1 PAN"
+    ],
+    [
+     "Scallion Cream Cheese",
+     "BRING UP 1 PAN"
+    ],
+    [
+     "Plain Cream Cheese",
      "BRING UP 1 PAN"
     ]
    ]
   }
  ],
- "updated": "2026-11-23T20:32:15-05:00"
+ "updated": "2026-11-24T01:45:01+00:00"
 }
