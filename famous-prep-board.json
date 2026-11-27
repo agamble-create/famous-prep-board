@@ -1,5 +1,5 @@
 {
- "date": "Thursday, November 26, 2026",
+ "date": "Friday, November 27, 2026",
  "make": [
   [
    "Rugelach — Apricot",
@@ -22,8 +22,20 @@
    "MAKE 1 BATCH"
   ],
   [
+   "Hamantaschen — Poppy",
+   "MAKE 1 BATCH"
+  ],
+  [
    "Linzer Tart — Raspberry",
    "MAKE 2 BATCHES"
+  ],
+  [
+   "Rainbow Sprinkle — Jumbo",
+   "MAKE 1 BATCH"
+  ],
+  [
+   "Chocolate Babka",
+   "MAKE 1 BATCH"
   ]
  ],
  "bake": [
@@ -81,8 +93,20 @@
      "MAKE 1 BATCH"
     ],
     [
+     "Hamantaschen — Poppy",
+     "MAKE 1 BATCH"
+    ],
+    [
      "Linzer Tart — Raspberry",
      "MAKE 2 BATCHES"
+    ],
+    [
+     "Rainbow Sprinkle — Jumbo",
+     "MAKE 1 BATCH"
+    ],
+    [
+     "Chocolate Babka",
+     "MAKE 1 BATCH"
     ]
    ]
   },
@@ -120,19 +144,23 @@
    "rows": [
     [
      "Chocolate Cake",
-     "MAKE 2 CAKES"
+     "MAKE 3 CAKES"
     ],
     [
      "Funfetti Cake",
-     "MAKE 1 CAKE"
+     "MAKE 2 CAKES"
+    ],
+    [
+     "Oreo Cake",
+     "MAKE 2 CAKES"
     ],
     [
      "Strawberry Shortcake",
-     "MAKE 12 PANS"
+     "MAKE 9 PANS"
     ],
     [
      "Black & White",
-     "MAKE 4 BATCHES"
+     "MAKE 8 BATCHES"
     ],
     [
      "Carrot Cake",
@@ -151,7 +179,7 @@
     ],
     [
      "Potato Knish",
-     "MAKE 10"
+     "MAKE 14"
     ],
     [
      "Meat Knish",
@@ -168,5 +196,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T10:57:44+00:00"
+ "updated": "2026-11-27T10:57:43+00:00"
 }
